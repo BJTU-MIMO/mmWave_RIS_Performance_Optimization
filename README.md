@@ -1,6 +1,6 @@
 # mmWave_RIS_Performance_Optimization
 
-This is the code for our TCOM paper titled "Millimeter Wave Communications With RIS performance analysis and optimization".
+This is the code for our TCOM paper titled ["Millimeter Wave Communications With RIS performance analysis and optimization"](https://ieeexplore.ieee.org/document/9324795/).
 
 The derived performance expressions, including H-functions, can be computed using *Mathematica".
 
