@@ -2,7 +2,7 @@
 
 This is the code for our TCOM paper titled ["Millimeter Wave Communications With RIS performance analysis and optimization"](https://ieeexplore.ieee.org/document/9324795/).
 
-The derived performance expressions, including H-functions, can be computed using *Mathematica".
+The derived performance expressions, including H-functions, can be computed using *Mathematica*.
 
 The code for the Monte Carlo simulation is given in *Matlab*.
 
